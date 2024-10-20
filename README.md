@@ -4,7 +4,7 @@
 
 ## 💥 Mern Stack <D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />!
 
-I am a Full Stack Developer with over 7.5 years of hands-on experience in building and leading development teams. I’m passionate about coding and developing new things. I also act as a problem solver, Whether it’s troubleshooting a critical bug or finding the best approach to implement a new feature My expertise spans across full-stack web development, project management.
+I am a Full Stack Developer, experience in building and leading development teams. I’m passionate about coding and developing new things. I also act as a problem solver, Whether it’s troubleshooting a critical bug or finding the best approach to implement a new feature My expertise spans across full-stack web development, project management.
 
 Outside of work, I enjoy playing chess, traveling, and spending time cooking and hanging out with friends, relishing good street food and fun conversations. I'm always looking for new challenges,
 
