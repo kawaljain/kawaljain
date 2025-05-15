@@ -17,7 +17,7 @@ Outside of work, I enjoy playing chess, traveling, and spending time cooking and
 - 💡 I love innovation and new technologies
 - 😄 You will find me trying out new things and exploring
 - 💰 I’m using my free time to expand my knowledge of finance!
-- 🥅 2024 Goals: Contribute more to Open Source projects and Learn Python
+- 🥅 2025 Goals: Contribute more to Open Source projects and Learn Python
 
 ## 🧰 Languages and Tools
 
